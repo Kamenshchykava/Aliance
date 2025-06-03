@@ -11,6 +11,14 @@ body{
     color: #fff;
     height: 94px;
 }
+.header{
+    min-width: 100vh;
+}
+.header-image{
+   background-image: url('../img/header-bg.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 .header-logo{
     padding: 25px 50px;
 }
